@@ -1,0 +1,1 @@
+g++ ./src/main.cpp ./src/CommonLibrary.h ./src/Component.h ./src/Component.h ./src/Component.cpp ./src/Builder.h ./src/Builder.cpp ./src/Strategy.h ./src/Strategy.cpp ./src/Iterator.h ./src/Iterator.cpp -o ./bin/fje
